@@ -1,5 +1,5 @@
 .board {
-	width: 40%;
+  width: 40%;
 }
 
 .cell {
@@ -10,9 +10,5 @@
 }
 
 .score {
-	text-align: center;
-}
-
-.empty {
-
+  text-align: center;
 }
