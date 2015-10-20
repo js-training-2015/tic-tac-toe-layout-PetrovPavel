@@ -1,0 +1,18 @@
+.board {
+	width: 40%;
+}
+
+.cell {
+  padding-bottom: 33%;
+  width: 30%;
+  margin-bottom: 5px;  
+  margin-right: 5px;
+}
+
+.score {
+	text-align: center;
+}
+
+.empty {
+
+}
